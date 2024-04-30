@@ -1,7 +1,7 @@
 #__________________| INFO |___________________#
 #______SCRIPT ENCRYPTED BY PYTHON 2.5
-#______CODING BY: 𝑨𝑳𝑬𝑿𝑨𝑵𝑫𝑬𝑹
-#______GITHUB : https://github.com/𝑨𝑳𝑬𝑿𝑨𝑵𝑫𝑬𝑹𝑲𝑬𝑵𝑷𝑶𝑮𝑰
+#______CODING BY: POLONGDEV
+#______GITHUB : https://github.com/POLONGDEV
 #________________| SCRIPT DATA |_____________#
 
 import base64
